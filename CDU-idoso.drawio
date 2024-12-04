@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Página-1" id="0i9zNTjrZn2mg2FyQtSR">
-    <mxGraphModel>
+    <mxGraphModel dx="1324" dy="1049" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ear5156XDGetxcFC-w4R-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ear5156XDGetxcFC-w4R-2" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="-24" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ear5156XDGetxcFC-w4R-3" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="89" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ear5156XDGetxcFC-w4R-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="221" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
